@@ -1,0 +1,14 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": "explicit",
+    "source.fixAll.eslint": "explicit"
+  },
+  "cSpell.ignorePaths": [
+    "node_modules/**",
+    "dist/**",
+    "src/ignoreMe/**",
+    "package.json",
+    "yarn.lock"
+  ],
+  "cSpell.words": ["commitlint", "nextjs", "roboto"]
+}
